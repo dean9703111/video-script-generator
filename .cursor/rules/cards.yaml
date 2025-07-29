@@ -1,0 +1,58 @@
+cards:
+  # 強調類字卡
+  emphasis:
+    - text: "重點！"
+      type: "warning"
+    - text: "注意"
+      type: "alert"
+    - text: "關鍵"
+      type: "highlight"
+    - text: "核心概念"
+      type: "info"
+    
+  # 情緒類字卡
+  emotion:
+    - text: "太神了！"
+      type: "excited"
+    - text: "震驚"
+      type: "surprise"
+    - text: "難以置信"
+      type: "amazed"
+    - text: "超有感"
+      type: "relatable"
+    
+  # 結論類字卡
+  conclusion:
+    - text: "結論"
+      type: "summary"
+    - text: "總結"
+      type: "summary"
+    - text: "重點回顧"
+      type: "recap"
+    
+  # 疑問類字卡
+  question:
+    - text: "為什麼？"
+      type: "question"
+    - text: "怎麼辦？"
+      type: "question"
+    - text: "真的嗎？"
+      type: "doubt"
+    
+  # 數據類字卡
+  data:
+    - text: "數據揭密"
+      type: "statistics"
+    - text: "驚人數字"
+      type: "statistics"
+    - text: "真相大白"
+      type: "reveal"
+    
+  # 建議類字卡
+  suggestion:
+    - text: "實用技巧"
+      type: "tip"
+    - text: "專家建議"
+      type: "advice"
+    - text: "行動指南"
+      type: "guide" 
