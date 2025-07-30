@@ -1,56 +1,62 @@
 sounds:
   # 強調音效
   emphasis:
-    - name: "叮咚"
+    - name: "滴，提示音"
       scene: "重點提醒"
-    - name: "敲鐘"
-      scene: "重要訊息"
-    - name: "亮片"
-      scene: "關鍵字強調"
+    - name: "啵"
+      scene: "多個重點"
     
   # 轉場音效
   transition:
-    - name: "咻聲"
-      scene: "段落轉換"
-    - name: "滑音"
+    - name: "綜藝開頭-咚（長）"
+      scene: "影片開頭"
+    - name: "咚（短）"
+      scene: "影片開頭"
+    - name: "影片轉場"
+      scene: "影片切換"
+    - name: "高音閃光轉場"
       scene: "話題切換"
-    - name: "翻頁"
-      scene: "章節轉換"
+    - name: "綜藝閃亮登場"
+      scene: "開頭自我介紹"
+    - name: "綜藝常用登場音效"
+      scene: "介紹來賓"
     
   # 情緒音效
   emotion:
-    - name: "哇聲"
+    - name: "wow沃"
       scene: "驚訝反應"
-    - name: "歎氣"
-      scene: "無奈情緒"
-    - name: "笑聲"
-      scene: "輕鬆幽默"
-    - name: "掌聲"
-      scene: "肯定讚許"
-    
+    - name: "疑問-啊？"
+      scene: "疑問反應"      
+    - name: "系統警告"
+      scene: "錯誤提示"
+    - name: "撞牆聲音"
+      scene: "卡關提示"
+    - name: "被拳頭打"
+      scene: "做錯決定"
+    - name: "心碎聲"
+      scene: "努力後失敗"
+    - name: "嬰兒哭"
+      scene: "沮喪"
+    - name: "打呼嚕"
+      scene: "無聊議題"
+
   # 懸疑音效
   suspense:
-    - name: "懸疑鼓聲"
-      scene: "營造緊張"
-    - name: "倒數滴答"
+    - name: "秒針計時音效"
       scene: "時間壓迫"
     - name: "神秘音"
       scene: "揭曉前奏"
     
   # 成功音效
   success:
-    - name: "成功鈴"
-      scene: "達成目標"
-    - name: "勝利號角"
-      scene: "突破成功"
-    - name: "完成音"
-      scene: "任務完成"
-    
+    - name: "叮鈴，任務完成"
+      scene: "完成任務"
+    - name: "掌聲2"
+      scene: "肯定讚許"
+  
   # 互動音效
   interaction:
     - name: "通知音"
       scene: "提醒觀眾"
-    - name: "按鈕音"
+    - name: "叮 關注提示"
       scene: "呼籲行動"
-    - name: "確認音"
-      scene: "重點確認" 
